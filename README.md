@@ -1,2 +1,2 @@
-#practicing git
-repo to practice git
+# practicing git
+repo to practice gits
